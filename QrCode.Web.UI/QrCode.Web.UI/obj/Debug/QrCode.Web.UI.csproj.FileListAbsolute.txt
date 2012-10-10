@@ -1,0 +1,7 @@
+c:\projects\github\QrCode\QrCode.Web.UI\QrCode.Web.UI\obj\Debug\ResolveAssemblyReference.cache
+c:\projects\github\QrCode\QrCode.Web.UI\QrCode.Web.UI\bin\QrCode.Web.UI.dll
+c:\projects\github\QrCode\QrCode.Web.UI\QrCode.Web.UI\bin\QrCode.Web.UI.pdb
+c:\projects\github\QrCode\QrCode.Web.UI\QrCode.Web.UI\obj\Debug\QrCode.Web.UI.dll
+c:\projects\github\QrCode\QrCode.Web.UI\QrCode.Web.UI\obj\Debug\QrCode.Web.UI.pdb
+C:\Projects\Github\QrCode\QrCode.Web.UI\QrCode.Web.UI\bin\QrCode.Web.Encoder.dll
+C:\Projects\Github\QrCode\QrCode.Web.UI\QrCode.Web.UI\bin\QrCode.Web.Encoder.pdb

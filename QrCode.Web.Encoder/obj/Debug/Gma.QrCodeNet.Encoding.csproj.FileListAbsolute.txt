@@ -1,0 +1,10 @@
+C:\Projects\Github\QrCode\Gma.QrCodeNet.Encoder\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Projects\Github\QrCode\Gma.QrCodeNet.Encoder\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Projects\Github\QrCode\Gma.QrCodeNet.Encoder\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Github\QrCode\Gma.QrCodeNet.Encoder\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\Github\QrCode\Gma.QrCodeNet.Encoder\obj\Debug\Gma.QrCodeNet.Encoding_MarkupCompile.cache
+C:\Projects\Github\QrCode\Gma.QrCodeNet.Encoder\obj\Debug\Gma.QrCodeNet.Encoding_MarkupCompile.lref
+C:\Projects\Github\QrCode\Gma.QrCodeNet.Encoder\obj\Debug\themes\Generic.baml
+C:\Projects\Github\QrCode\Gma.QrCodeNet.Encoder\obj\Debug\Gma.QrCodeNet.Encoding.g.resources
+C:\Projects\Github\QrCode\Gma.QrCodeNet.Encoder\obj\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Projects\Github\QrCode\Gma.QrCodeNet.Encoder\obj\Debug\Gma.QrCodeNet.Encoding.pdb

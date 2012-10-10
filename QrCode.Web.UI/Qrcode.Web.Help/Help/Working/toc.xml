@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<topics>
+  <topic id="N:QrCode.Web.Encoder" project="_Namespaces" file="9b794206-e841-2a0e-2854-2adaf52c7c35">
+    <topic id="T:QrCode.Web.Encoder.BitMatrix" project="QrCode.Web.Encoder" file="8dbae344-a429-585e-cf98-888c641152ec">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.BitMatrix" project="QrCode.Web.Encoder" file="38d08f37-098c-3857-6ca4-911eccde4ffa" />
+      <topic id="M:QrCode.Web.Encoder.BitMatrix.#ctor" project="QrCode.Web.Encoder" file="257baabd-0e3b-c10b-cfbd-727908903d1e" />
+      <topic id="Methods.T:QrCode.Web.Encoder.BitMatrix" project="QrCode.Web.Encoder" file="d9fd753e-4b9b-e4cf-d108-1cea7948088c" />
+      <topic id="Properties.T:QrCode.Web.Encoder.BitMatrix" project="QrCode.Web.Encoder" file="6f01bc18-4bc0-dbb9-9d84-80d992244183">
+        <topic id="P:QrCode.Web.Encoder.BitMatrix.Height" project="QrCode.Web.Encoder" file="5433ca49-3e88-1581-29b1-78cdfb53a5e4" />
+        <topic id="P:QrCode.Web.Encoder.BitMatrix.InternalArray" project="QrCode.Web.Encoder" file="36619606-ba08-a0f3-f3cf-1fd5ffcaf8a3" />
+        <topic id="P:QrCode.Web.Encoder.BitMatrix.Item(System.Int32,System.Int32)" project="QrCode.Web.Encoder" file="c4a54deb-ee49-028b-2ee7-1a8b51bc929d" />
+        <topic id="P:QrCode.Web.Encoder.BitMatrix.Width" project="QrCode.Web.Encoder" file="24f3932e-f17d-9f3c-8b23-89db48d73d67" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.ErrorCorrectionLevel" project="QrCode.Web.Encoder" file="aab53d51-16b2-b00c-4c33-a1285bfbaf8b" />
+    <topic id="T:QrCode.Web.Encoder.MatrixPoint" project="QrCode.Web.Encoder" file="da8084d1-812e-5e40-4fd2-3fe3c78dffa9">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.MatrixPoint" project="QrCode.Web.Encoder" file="6aeb07c9-8c0c-c793-4edb-33a565736dd6" />
+      <topic id="Methods.T:QrCode.Web.Encoder.MatrixPoint" project="QrCode.Web.Encoder" file="e2471268-2afb-5b2e-1b34-5ab661d4890e">
+        <topic id="M:QrCode.Web.Encoder.MatrixPoint.Offset(QrCode.Web.Encoder.MatrixPoint)" project="QrCode.Web.Encoder" file="89b94400-cb44-8585-9649-f038209fc463" />
+        <topic id="M:QrCode.Web.Encoder.MatrixPoint.ToString" project="QrCode.Web.Encoder" file="45ef69f8-d1aa-0ccb-bd0c-e9988f407f69" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.MatrixPoint" project="QrCode.Web.Encoder" file="9ad54298-c9e9-e039-0330-e94212cf6105">
+        <topic id="P:QrCode.Web.Encoder.MatrixPoint.X" project="QrCode.Web.Encoder" file="16f36ad5-d072-54e7-f4ca-a2586fc3e982" />
+        <topic id="P:QrCode.Web.Encoder.MatrixPoint.Y" project="QrCode.Web.Encoder" file="c3f5c95e-6cf2-50e1-019a-0af4762ef3e4" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.MatrixSize" project="QrCode.Web.Encoder" file="e793338f-2a7f-e9ca-a278-dc97830f1cc4">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.MatrixSize" project="QrCode.Web.Encoder" file="853cf246-ec8f-6261-9b97-c7d3be031907" />
+      <topic id="Methods.T:QrCode.Web.Encoder.MatrixSize" project="QrCode.Web.Encoder" file="b7bcabd7-c579-c135-c596-6d903a89d6a7">
+        <topic id="M:QrCode.Web.Encoder.MatrixSize.ToString" project="QrCode.Web.Encoder" file="bfae6b3f-58da-6f9d-f0c6-d93e14e8d842" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.MatrixSize" project="QrCode.Web.Encoder" file="14b99cc0-256b-efd5-1b0c-d9625495d75d">
+        <topic id="P:QrCode.Web.Encoder.MatrixSize.Height" project="QrCode.Web.Encoder" file="9360654f-9118-aead-d6e7-78dbfe95cf63" />
+        <topic id="P:QrCode.Web.Encoder.MatrixSize.Width" project="QrCode.Web.Encoder" file="95a4ab9e-5acf-b42f-1967-6c11be5ed2ff" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.MatrixStatus" project="QrCode.Web.Encoder" file="3ec85013-4d45-cdc8-e1e1-19ba9e111d91" />
+    <topic id="T:QrCode.Web.Encoder.QrCode" project="QrCode.Web.Encoder" file="bcc8dcbb-71a0-897b-9aff-625a2e474de5">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.QrCode" project="QrCode.Web.Encoder" file="bb90af07-4307-54ee-f688-154c0714bf23" />
+      <topic id="M:QrCode.Web.Encoder.QrCode.#ctor" project="QrCode.Web.Encoder" file="8bb306d8-af7e-b260-46fb-7f0c8d83fc5f" />
+      <topic id="Methods.T:QrCode.Web.Encoder.QrCode" project="QrCode.Web.Encoder" file="49060e38-1d26-b1a1-a766-bc3b38000784" />
+      <topic id="Properties.T:QrCode.Web.Encoder.QrCode" project="QrCode.Web.Encoder" file="748555e3-5db2-f948-639b-fc4e396fd869">
+        <topic id="P:QrCode.Web.Encoder.QrCode.isContainMatrix" project="QrCode.Web.Encoder" file="3fe6293c-4d49-f656-77a0-36516e054104" />
+        <topic id="P:QrCode.Web.Encoder.QrCode.Matrix" project="QrCode.Web.Encoder" file="5881e8f3-1371-a28f-ab1f-fdeea8356af0" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.QRCodeConstantVariable" project="QrCode.Web.Encoder" file="7c931e43-a7e8-3c89-0ce3-98b080d38296">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.QRCodeConstantVariable" project="QrCode.Web.Encoder" file="e681af69-f298-f235-e085-a182cba3fa8f" />
+      <topic id="Fields.T:QrCode.Web.Encoder.QRCodeConstantVariable" project="QrCode.Web.Encoder" file="6c8991b5-3f85-4a0a-f373-1670c84684ce">
+        <topic id="F:QrCode.Web.Encoder.QRCodeConstantVariable.DefaultEncoding" project="QrCode.Web.Encoder" file="df5ae75f-7a2f-9f4d-50d6-b36533db1e9e" />
+        <topic id="F:QrCode.Web.Encoder.QRCodeConstantVariable.MaxVersion" project="QrCode.Web.Encoder" file="9bedec38-99e7-f5ad-66fa-91167dfbe5c3" />
+        <topic id="F:QrCode.Web.Encoder.QRCodeConstantVariable.MinVersion" project="QrCode.Web.Encoder" file="f8a842e5-9e84-495c-b260-103088073ae9" />
+        <topic id="F:QrCode.Web.Encoder.QRCodeConstantVariable.QRCodePrimitive" project="QrCode.Web.Encoder" file="6ed35a9b-331f-3db9-aee8-7a0eedea3fa6" />
+        <topic id="F:QrCode.Web.Encoder.QRCodeConstantVariable.UTF8Encoding" project="QrCode.Web.Encoder" file="364637f4-7d71-1915-19c0-470c8fef9abc" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.QRCodeConstantVariable" project="QrCode.Web.Encoder" file="d67fd331-e87a-8352-2c8f-f1f043c5b02b">
+        <topic id="P:QrCode.Web.Encoder.QRCodeConstantVariable.UTF8ByteOrderMark" project="QrCode.Web.Encoder" file="caea327b-cc3a-20ab-712f-26fb03510fc1" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.QrEncoder" project="QrCode.Web.Encoder" file="005d83d5-f277-01c3-10e8-ec16f7cb0b44">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.QrEncoder" project="QrCode.Web.Encoder" file="c018aaad-99ba-842f-21d5-8ce74fe09348" />
+      <topic id="Overload:QrCode.Web.Encoder.QrEncoder.#ctor" project="QrCode.Web.Encoder" file="b0b39b7a-8d25-e252-4279-272a88919775">
+        <topic id="M:QrCode.Web.Encoder.QrEncoder.#ctor" project="QrCode.Web.Encoder" file="b5aabc2c-2484-ca18-3ab8-4f27d0d8ab02" />
+        <topic id="M:QrCode.Web.Encoder.QrEncoder.#ctor(QrCode.Web.Encoder.ErrorCorrectionLevel)" project="QrCode.Web.Encoder" file="45ca143b-4a2d-6b4c-42cd-01600eb44aa3" />
+      </topic>
+      <topic id="Methods.T:QrCode.Web.Encoder.QrEncoder" project="QrCode.Web.Encoder" file="510db965-159d-cac4-eda6-d0a16d435986">
+        <topic id="M:QrCode.Web.Encoder.QrEncoder.Encode(System.String)" project="QrCode.Web.Encoder" file="2de96916-7c65-2091-f911-75eefa7a20ea" />
+        <topic id="M:QrCode.Web.Encoder.QrEncoder.TryEncode(System.String,QrCode.Web.Encoder.QrCode@)" project="QrCode.Web.Encoder" file="43d9f237-55ea-05b1-1680-667257b91867" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.QrEncoder" project="QrCode.Web.Encoder" file="a49be812-de1d-b5ac-ab36-2d810ff8481e">
+        <topic id="P:QrCode.Web.Encoder.QrEncoder.ErrorCorrectionLevel" project="QrCode.Web.Encoder" file="4888b160-3101-aa9b-070b-6b2323e3fe7a" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.SquareBitMatrix" project="QrCode.Web.Encoder" file="e50a831a-8bc3-e25d-e77c-cf06fc495dd8">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.SquareBitMatrix" project="QrCode.Web.Encoder" file="3055c044-faba-44ba-8a5b-3990c12b64f6" />
+      <topic id="M:QrCode.Web.Encoder.SquareBitMatrix.#ctor(System.Int32)" project="QrCode.Web.Encoder" file="22adedf8-75b1-a04f-1843-db8b1ebb60a8" />
+      <topic id="Methods.T:QrCode.Web.Encoder.SquareBitMatrix" project="QrCode.Web.Encoder" file="49d2f508-ed67-26e0-889c-19e3b6f88805">
+        <topic id="M:QrCode.Web.Encoder.SquareBitMatrix.CreateSquareBitMatrix(System.Boolean[0:,0:],QrCode.Web.Encoder.SquareBitMatrix@)" project="QrCode.Web.Encoder" file="326581c9-a3e0-4d57-898d-c9644313c9b6" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.SquareBitMatrix" project="QrCode.Web.Encoder" file="837d8ea1-7e1d-e728-e9a0-1db9a5914a7f">
+        <topic id="P:QrCode.Web.Encoder.SquareBitMatrix.Height" project="QrCode.Web.Encoder" file="dabf16e0-ae23-69e1-4a5a-73ee8c17190d" />
+        <topic id="P:QrCode.Web.Encoder.SquareBitMatrix.InternalArray" project="QrCode.Web.Encoder" file="6505a31b-1e0a-ba40-0081-045ce32381d9" />
+        <topic id="P:QrCode.Web.Encoder.SquareBitMatrix.Item(System.Int32,System.Int32)" project="QrCode.Web.Encoder" file="bbc9a8cc-3d7f-5c04-6062-ca0aa991bffe" />
+        <topic id="P:QrCode.Web.Encoder.SquareBitMatrix.Width" project="QrCode.Web.Encoder" file="76003c72-1858-8b78-0975-465d6079344f" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.StateMatrix" project="QrCode.Web.Encoder" file="d854b804-7921-cad3-721b-c7a95e3daeb0">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.StateMatrix" project="QrCode.Web.Encoder" file="a3b0f855-8802-f260-4d8b-f432e8e5f2f6" />
+      <topic id="M:QrCode.Web.Encoder.StateMatrix.#ctor(System.Int32)" project="QrCode.Web.Encoder" file="dbc9f59e-1138-d9f7-1d34-d14379edf1db" />
+      <topic id="Methods.T:QrCode.Web.Encoder.StateMatrix" project="QrCode.Web.Encoder" file="dfc4aa8f-1896-48e5-b14c-c339b986e680" />
+      <topic id="Properties.T:QrCode.Web.Encoder.StateMatrix" project="QrCode.Web.Encoder" file="50e93239-2ae9-18f9-7da9-1e2fca9f883a">
+        <topic id="P:QrCode.Web.Encoder.StateMatrix.Height" project="QrCode.Web.Encoder" file="4c8d3c97-efe7-ab3a-34bb-02ce56c864da" />
+        <topic id="P:QrCode.Web.Encoder.StateMatrix.Item(System.Int32,System.Int32)" project="QrCode.Web.Encoder" file="1486e670-d3b8-6deb-0c25-b35e18926657" />
+        <topic id="P:QrCode.Web.Encoder.StateMatrix.Width" project="QrCode.Web.Encoder" file="161847ad-df7a-a03d-4078-61c598e07026" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.TriStateMatrix" project="QrCode.Web.Encoder" file="0e039389-2db7-f2e4-d8a3-8b23dfe96c5d">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.TriStateMatrix" project="QrCode.Web.Encoder" file="474a2087-d43f-d7ad-40f2-3aa6231cca67" />
+      <topic id="M:QrCode.Web.Encoder.TriStateMatrix.#ctor(System.Int32)" project="QrCode.Web.Encoder" file="b1fae4f7-c7d8-296e-2922-9339867070eb" />
+      <topic id="Methods.T:QrCode.Web.Encoder.TriStateMatrix" project="QrCode.Web.Encoder" file="1d2bccf2-04f3-e4a8-3047-e2cfe9c4268c">
+        <topic id="M:QrCode.Web.Encoder.TriStateMatrix.CreateTriStateMatrix(System.Boolean[0:,0:],QrCode.Web.Encoder.TriStateMatrix@)" project="QrCode.Web.Encoder" file="b60638ce-2b61-9794-fe8a-64e4778f64d1" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.TriStateMatrix" project="QrCode.Web.Encoder" file="be012cde-8ee1-be37-f22c-4c0bd4a43a67">
+        <topic id="P:QrCode.Web.Encoder.TriStateMatrix.Height" project="QrCode.Web.Encoder" file="285fe52c-0162-ee20-27bd-49bc94ab7d4e" />
+        <topic id="P:QrCode.Web.Encoder.TriStateMatrix.InternalArray" project="QrCode.Web.Encoder" file="3ae258a5-2ede-12a7-482d-45b88145ea9c" />
+        <topic id="Overload:QrCode.Web.Encoder.TriStateMatrix.Item" project="QrCode.Web.Encoder" file="c86d41aa-9f2d-24b9-d408-07948a202236">
+          <topic id="P:QrCode.Web.Encoder.TriStateMatrix.Item(System.Int32,System.Int32)" project="QrCode.Web.Encoder" file="1c88db65-8e3c-7c88-b14b-16db086938a1" />
+          <topic id="P:QrCode.Web.Encoder.TriStateMatrix.Item(System.Int32,System.Int32,QrCode.Web.Encoder.MatrixStatus)" project="QrCode.Web.Encoder" file="1296c461-a2c5-309f-bff1-646d68905739" />
+        </topic>
+        <topic id="P:QrCode.Web.Encoder.TriStateMatrix.Width" project="QrCode.Web.Encoder" file="95aa264e-2070-d223-ec1f-7cc0069c0823" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.VersionDetail" project="QrCode.Web.Encoder" file="31a51783-8aad-7baa-5e55-d5c285c1b4d2">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.VersionDetail" project="QrCode.Web.Encoder" file="115eb90c-252d-ccbe-24ad-bfbd31b6c30d" />
+      <topic id="Methods.T:QrCode.Web.Encoder.VersionDetail" project="QrCode.Web.Encoder" file="4696246e-9fd8-db08-9384-d0eb78fe8521">
+        <topic id="M:QrCode.Web.Encoder.VersionDetail.ToString" project="QrCode.Web.Encoder" file="a17ec8ac-9ef9-4f6c-2a08-4c5ff355cf98" />
+      </topic>
+    </topic>
+  </topic>
+  <topic id="N:QrCode.Web.Encoder.common" project="_Namespaces" file="13fcd8cd-72b3-690d-6080-535824f105c0">
+    <topic id="T:QrCode.Web.Encoder.common.ByteMatrix" project="QrCode.Web.Encoder" file="57d08a4a-986b-3ae7-88ff-56d2a9c8b6ba">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.common.ByteMatrix" project="QrCode.Web.Encoder" file="529fe9e2-fb07-30be-1b80-5befddb9099d" />
+      <topic id="Methods.T:QrCode.Web.Encoder.common.ByteMatrix" project="QrCode.Web.Encoder" file="ed665478-d340-42d2-18e4-181dc490d025" />
+    </topic>
+  </topic>
+  <topic id="N:QrCode.Web.Encoder.DataEncodation" project="_Namespaces" file="56d67623-187f-7355-89c1-fc88a904e305">
+    <topic id="T:QrCode.Web.Encoder.DataEncodation.CharCountIndicatorTable" project="QrCode.Web.Encoder" file="473a2cba-90da-bdc9-9e14-0123f69235fd">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.DataEncodation.CharCountIndicatorTable" project="QrCode.Web.Encoder" file="d735ddd6-11ce-fa67-efaa-e2d83e94be84" />
+      <topic id="Methods.T:QrCode.Web.Encoder.DataEncodation.CharCountIndicatorTable" project="QrCode.Web.Encoder" file="6bfe0f17-274b-4d64-95f7-897994866aa2">
+        <topic id="M:QrCode.Web.Encoder.DataEncodation.CharCountIndicatorTable.GetBitCountInCharCountIndicator(QrCode.Web.Encoder.DataEncodation.Mode,System.Int32)" project="QrCode.Web.Encoder" file="e60965ac-3b63-dc17-6151-60ae4f897881" />
+        <topic id="M:QrCode.Web.Encoder.DataEncodation.CharCountIndicatorTable.GetCharCountIndicatorSet(QrCode.Web.Encoder.DataEncodation.Mode)" project="QrCode.Web.Encoder" file="f4edc733-2857-a957-ec25-26efe95a9395" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.DataEncodation.ECISet" project="QrCode.Web.Encoder" file="71875735-8b10-e1f0-3c18-33bc3d5dca54">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.DataEncodation.ECISet" project="QrCode.Web.Encoder" file="4391b8c3-98cd-f954-ccbb-1912ad7fb3d3" />
+      <topic id="Methods.T:QrCode.Web.Encoder.DataEncodation.ECISet" project="QrCode.Web.Encoder" file="7aab50a0-abac-f38d-e757-d79e1f931c89">
+        <topic id="M:QrCode.Web.Encoder.DataEncodation.ECISet.ContainsECIName(System.String)" project="QrCode.Web.Encoder" file="65b00aa1-c1b4-0f1f-d12a-77b7601ce448" />
+        <topic id="M:QrCode.Web.Encoder.DataEncodation.ECISet.ContainsECIValue(System.Int32)" project="QrCode.Web.Encoder" file="de49ae8e-88c8-f5ea-8b51-bee6ccbbbb6f" />
+        <topic id="M:QrCode.Web.Encoder.DataEncodation.ECISet.GetECITable" project="QrCode.Web.Encoder" file="e7bd8135-a5df-8afa-3253-ee61f9b0080a" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.DataEncodation.ECISet.AppendOption" project="QrCode.Web.Encoder" file="2517ece5-f64a-f51f-fa25-d7d3c0894593" />
+    <topic id="T:QrCode.Web.Encoder.DataEncodation.EncoderBase" project="QrCode.Web.Encoder" file="b76c18f8-f798-5229-77d5-943404341aad">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.DataEncodation.EncoderBase" project="QrCode.Web.Encoder" file="c17b721a-7cc6-980e-5a9b-1918b7513135" />
+      <topic id="Methods.T:QrCode.Web.Encoder.DataEncodation.EncoderBase" project="QrCode.Web.Encoder" file="1c4afa92-2377-5eed-709b-f1b282ec1ae7">
+        <topic id="M:QrCode.Web.Encoder.DataEncodation.EncoderBase.GetBitCountInCharCountIndicator(System.Int32)" project="QrCode.Web.Encoder" file="30a61dbf-e896-50a3-3588-bfe05cf0b632" />
+        <topic id="M:QrCode.Web.Encoder.DataEncodation.EncoderBase.GetDataLength(System.String)" project="QrCode.Web.Encoder" file="46852cc2-39d1-bf63-565d-2373e56a62d9" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.DataEncodation.Mode" project="QrCode.Web.Encoder" file="aeec5290-1827-ac69-f4d9-8e818a25ffe2" />
+  </topic>
+  <topic id="N:QrCode.Web.Encoder.DataEncodation.InputRecognition" project="_Namespaces" file="7f81d62a-a22f-fad6-2f76-583b722596cd">
+    <topic id="T:QrCode.Web.Encoder.DataEncodation.InputRecognition.InputRecognise" project="QrCode.Web.Encoder" file="80fcbfe5-c8e0-d75b-40ed-1ccd2a30c771">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.DataEncodation.InputRecognition.InputRecognise" project="QrCode.Web.Encoder" file="878e4175-6202-d2f9-ac6c-c5fb2254dc7f" />
+      <topic id="Methods.T:QrCode.Web.Encoder.DataEncodation.InputRecognition.InputRecognise" project="QrCode.Web.Encoder" file="6616f3c6-71b8-2bc2-9d64-dc8de2af6fd3">
+        <topic id="M:QrCode.Web.Encoder.DataEncodation.InputRecognition.InputRecognise.Recognise(System.String)" project="QrCode.Web.Encoder" file="84814736-17dd-a559-cce5-b387bd44069e" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.DataEncodation.InputRecognition.ModeEncodeCheck" project="QrCode.Web.Encoder" file="83394294-1831-463c-8363-fa6f143478dc">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.DataEncodation.InputRecognition.ModeEncodeCheck" project="QrCode.Web.Encoder" file="b811ca7e-f772-121c-20ca-79f559550549" />
+      <topic id="Methods.T:QrCode.Web.Encoder.DataEncodation.InputRecognition.ModeEncodeCheck" project="QrCode.Web.Encoder" file="37a85f4e-ca76-f21b-e9dd-6a6d4a429ace">
+        <topic id="M:QrCode.Web.Encoder.DataEncodation.InputRecognition.ModeEncodeCheck.isModeEncodeValid(QrCode.Web.Encoder.DataEncodation.Mode,System.String,System.String)" project="QrCode.Web.Encoder" file="e3dd1f97-f7f0-58dc-61dd-822aa1edbe88" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.DataEncodation.InputRecognition.RecognitionStruct" project="QrCode.Web.Encoder" file="928e7ce1-4eac-c2c0-be00-5e6d90c20c3f">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.DataEncodation.InputRecognition.RecognitionStruct" project="QrCode.Web.Encoder" file="8ad89a88-330d-5189-c7a6-10bc2eb7bbc4" />
+      <topic id="M:QrCode.Web.Encoder.DataEncodation.InputRecognition.RecognitionStruct.#ctor(QrCode.Web.Encoder.DataEncodation.Mode,System.String)" project="QrCode.Web.Encoder" file="a9a7e4ed-77ec-83ff-beb2-ad856d8b16bc" />
+      <topic id="Methods.T:QrCode.Web.Encoder.DataEncodation.InputRecognition.RecognitionStruct" project="QrCode.Web.Encoder" file="01fcef59-2ed0-1852-3937-164750c87dd0" />
+      <topic id="Properties.T:QrCode.Web.Encoder.DataEncodation.InputRecognition.RecognitionStruct" project="QrCode.Web.Encoder" file="627c77da-76df-6e81-23da-0d3f08991918">
+        <topic id="P:QrCode.Web.Encoder.DataEncodation.InputRecognition.RecognitionStruct.EncodingName" project="QrCode.Web.Encoder" file="e02d990a-c0e6-0574-5e94-bad4501d13f0" />
+        <topic id="P:QrCode.Web.Encoder.DataEncodation.InputRecognition.RecognitionStruct.Mode" project="QrCode.Web.Encoder" file="06a3a23b-f391-de8e-72f4-ffb859b841b3" />
+      </topic>
+    </topic>
+  </topic>
+  <topic id="N:QrCode.Web.Encoder.Masking" project="_Namespaces" file="24c425cb-1b16-7618-874d-ae9d829cafb9">
+    <topic id="T:QrCode.Web.Encoder.Masking.MaskPatternType" project="QrCode.Web.Encoder" file="20dccbda-9639-993e-48b2-f5cecd67ae8e" />
+    <topic id="T:QrCode.Web.Encoder.Masking.MatrixExtensions" project="QrCode.Web.Encoder" file="18a48212-9b01-887f-c5f3-21a64cc8da6b">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Masking.MatrixExtensions" project="QrCode.Web.Encoder" file="95ed9bc1-14f8-9932-ca5c-16442e8f1a8e" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Masking.MatrixExtensions" project="QrCode.Web.Encoder" file="30933dc5-3e6c-4d06-c69a-00dd2db608f9">
+        <topic id="Overload:QrCode.Web.Encoder.Masking.MatrixExtensions.Apply" project="QrCode.Web.Encoder" file="b500a51d-b066-85e9-e607-03e81b51f290">
+          <topic id="M:QrCode.Web.Encoder.Masking.MatrixExtensions.Apply(QrCode.Web.Encoder.Masking.Pattern,QrCode.Web.Encoder.TriStateMatrix,QrCode.Web.Encoder.ErrorCorrectionLevel)" project="QrCode.Web.Encoder" file="a2d52ca4-27eb-3c10-201b-6aa0742c9f09" />
+          <topic id="M:QrCode.Web.Encoder.Masking.MatrixExtensions.Apply(QrCode.Web.Encoder.TriStateMatrix,QrCode.Web.Encoder.Masking.Pattern,QrCode.Web.Encoder.ErrorCorrectionLevel)" project="QrCode.Web.Encoder" file="3a8a7922-0c1c-3d91-f2b7-77369c5d2fd6" />
+        </topic>
+        <topic id="M:QrCode.Web.Encoder.Masking.MatrixExtensions.Xor(QrCode.Web.Encoder.TriStateMatrix,QrCode.Web.Encoder.Masking.Pattern,QrCode.Web.Encoder.ErrorCorrectionLevel)" project="QrCode.Web.Encoder" file="7b71ed67-921d-9dfb-b299-516ee8112ac0" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Masking.Pattern" project="QrCode.Web.Encoder" file="e3cc799a-1b04-5657-f941-a8059082dc88">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Masking.Pattern" project="QrCode.Web.Encoder" file="6b6468c1-1bf9-9c77-32f5-1306cc30e9d9" />
+      <topic id="M:QrCode.Web.Encoder.Masking.Pattern.#ctor" project="QrCode.Web.Encoder" file="7d1e4ab6-7e11-62a6-f58e-e1fad4719d05" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Masking.Pattern" project="QrCode.Web.Encoder" file="0bbe3cd2-cefc-6e6d-8564-5a6a92593237" />
+      <topic id="Properties.T:QrCode.Web.Encoder.Masking.Pattern" project="QrCode.Web.Encoder" file="746cdca1-bc38-8d13-aef9-ca2e877cbf65">
+        <topic id="P:QrCode.Web.Encoder.Masking.Pattern.Height" project="QrCode.Web.Encoder" file="08096b13-5e36-ebf5-8bb9-5beb29f98cf9" />
+        <topic id="P:QrCode.Web.Encoder.Masking.Pattern.InternalArray" project="QrCode.Web.Encoder" file="b30fa43a-3ae8-ff24-19b1-f72de26b1260" />
+        <topic id="P:QrCode.Web.Encoder.Masking.Pattern.MaskPatternType" project="QrCode.Web.Encoder" file="2ad0fa3e-718b-81e8-fd79-33c519eeccee" />
+        <topic id="P:QrCode.Web.Encoder.Masking.Pattern.Width" project="QrCode.Web.Encoder" file="e282e4a3-4a05-1555-0f61-198ca0a1444a" />
+      </topic>
+    </topic>
+  </topic>
+  <topic id="N:QrCode.Web.Encoder.Masking.Scoring" project="_Namespaces" file="73478d77-3487-b28b-4f9c-5b585545c395">
+    <topic id="T:QrCode.Web.Encoder.Masking.Scoring.Penalty" project="QrCode.Web.Encoder" file="bd3ab191-158c-98d1-6a99-ce1c6abe5a4f">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Masking.Scoring.Penalty" project="QrCode.Web.Encoder" file="d19c39ba-7b5e-d31c-00a5-cfebfff41dba" />
+      <topic id="M:QrCode.Web.Encoder.Masking.Scoring.Penalty.#ctor" project="QrCode.Web.Encoder" file="eb4ad36a-df2e-5183-7323-88a35fe5a326" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Masking.Scoring.Penalty" project="QrCode.Web.Encoder" file="92892e8e-f5b9-bc0d-51b9-08006fcef298" />
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Masking.Scoring.PenaltyRules" project="QrCode.Web.Encoder" file="1f0f06ee-0780-399a-c3f6-36401ed527ad" />
+  </topic>
+  <topic id="N:QrCode.Web.Encoder.Versions" project="_Namespaces" file="8b660b12-3c6b-c5e4-4ee7-7553c10ac59e">
+    <topic id="T:QrCode.Web.Encoder.Versions.InputOutOfBoundaryException" project="QrCode.Web.Encoder" file="f6c1c711-1947-64b4-7a1b-f11030d5a583">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Versions.InputOutOfBoundaryException" project="QrCode.Web.Encoder" file="298eaafa-7706-2a1e-0b55-34f0da1ca1c8" />
+      <topic id="Overload:QrCode.Web.Encoder.Versions.InputOutOfBoundaryException.#ctor" project="QrCode.Web.Encoder" file="730cb6dc-8d47-a58b-3a0e-738cd3e445e0">
+        <topic id="M:QrCode.Web.Encoder.Versions.InputOutOfBoundaryException.#ctor" project="QrCode.Web.Encoder" file="590fe4f6-4cfe-01ca-ef5e-d6ebe77e1b7c" />
+        <topic id="M:QrCode.Web.Encoder.Versions.InputOutOfBoundaryException.#ctor(System.String)" project="QrCode.Web.Encoder" file="e4574e35-070c-6629-7a7b-a0e239a19fca" />
+      </topic>
+      <topic id="Methods.T:QrCode.Web.Encoder.Versions.InputOutOfBoundaryException" project="QrCode.Web.Encoder" file="4d011132-41e8-a227-dccd-4d14986447ac" />
+      <topic id="Properties.T:QrCode.Web.Encoder.Versions.InputOutOfBoundaryException" project="QrCode.Web.Encoder" file="ef6679b3-3b7c-1ae9-85f8-bfdcea57a0eb" />
+      <topic id="Events.T:QrCode.Web.Encoder.Versions.InputOutOfBoundaryException" project="QrCode.Web.Encoder" file="72d98430-776d-484b-e3d1-3a540aa574c0" />
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Versions.VersionTable" project="QrCode.Web.Encoder" file="7ba0c2ab-7540-493c-7755-79b1cd70ea5b" />
+  </topic>
+  <topic id="N:QrCode.Web.Encoder.Windows.Forms" project="_Namespaces" file="604cc667-cf6a-5087-6a00-a4e77523f96b">
+    <topic id="T:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl" project="QrCode.Web.Encoder" file="28638262-7205-9c4b-d405-4f94fc41fe33">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl" project="QrCode.Web.Encoder" file="f3df4d15-640a-8be8-4438-5590ecd4ce73" />
+      <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.#ctor" project="QrCode.Web.Encoder" file="1dda6007-702e-89bc-13da-8d83a2f36a07" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl" project="QrCode.Web.Encoder" file="cd925a92-4877-d404-26c5-64db994c8e6a">
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.AccessibilityNotifyClients" project="QrCode.Web.Encoder" file="9014bd3c-0154-d3ba-0dea-b8afda96fad5" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.BeginInvoke" project="QrCode.Web.Encoder" file="f5ddb701-7fe7-6c4b-8f38-e8aa9cf5aa28" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.Dispose" project="QrCode.Web.Encoder" file="8e5be2c1-9379-ac8f-89f6-fa1639862c40" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.Freeze" project="QrCode.Web.Encoder" file="aa925ab3-e0f5-0660-dd01-00c63bbff669" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.GetChildAtPoint" project="QrCode.Web.Encoder" file="4c52039e-7abe-6513-92fb-7c6492a0aa53" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.GetQrMatrix" project="QrCode.Web.Encoder" file="dc6b43d2-ab42-fb47-7e2b-8a6ade73ec49" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.Invalidate" project="QrCode.Web.Encoder" file="ce095a12-38c7-aa23-fb0b-4c82b3ab8b2b" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.Invoke" project="QrCode.Web.Encoder" file="8f197843-ce56-9bef-9caa-1a55d971a3ad" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.Lock" project="QrCode.Web.Encoder" file="c6f8364e-cfc7-ae2f-fb8b-1c3556cb7312" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.MemberwiseClone" project="QrCode.Web.Encoder" file="b440b583-108c-df6e-fbdb-e0d5542f070c" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.OnDarkBrushChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="92b38218-2238-34db-1dfa-2faa63c7c1fb" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.OnErrorCorrectLevelChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="50bc5a5c-677e-7a95-e882-bd570048b8b1" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.OnLightBrushChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="00a22f3a-81c3-7d9f-1207-84e8773bc3b1" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.OnPaint(System.Windows.Forms.PaintEventArgs)" project="QrCode.Web.Encoder" file="566cba22-43fb-824a-c740-b9945bde1b81" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.OnQrMatrixChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="69cbd259-180a-60d4-3d0d-00ebcca1d927" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.OnQuietZoneModuleChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="416ecfd7-02dd-b13b-ac69-3525ddc10dea" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.OnTextChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="49f08552-950b-7874-f61f-f34e5c6c4132" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.PerformLayout" project="QrCode.Web.Encoder" file="26f4e740-b48b-46e5-ace2-b6036e9bf552" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.ResumeLayout" project="QrCode.Web.Encoder" file="a1daf152-d137-0553-2042-bd527c146fad" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.RtlTranslateAlignment" project="QrCode.Web.Encoder" file="9364303f-bbb4-d2f1-f854-178c276fb6bb" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.Scale" project="QrCode.Web.Encoder" file="2e811112-3c32-7d74-3a19-14523fa5475b" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.Select" project="QrCode.Web.Encoder" file="ffaa4e7c-ab53-2e14-6f5d-544bed942890" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.SetBounds" project="QrCode.Web.Encoder" file="aa0dd108-7bec-c542-76f8-0fef9d91ade2" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.UnFreeze" project="QrCode.Web.Encoder" file="a1fd7e3f-459a-d5e3-3954-17b38a91e77e" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.UnLock" project="QrCode.Web.Encoder" file="16341403-165a-73f2-c244-b6918ae87379" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.UpdateBounds" project="QrCode.Web.Encoder" file="e367ad36-1ead-f731-4e3c-8ffdc912822a" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl" project="QrCode.Web.Encoder" file="19bb376b-730a-edf6-4454-f69a665f4985">
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.DarkBrush" project="QrCode.Web.Encoder" file="bcdc23c4-d88e-833f-b0b8-6e2146dfafa2" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.ErrorCorrectLevel" project="QrCode.Web.Encoder" file="d43726c2-41da-7940-1374-29bd54ee98a6" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.IsFreezed" project="QrCode.Web.Encoder" file="2028b792-2e56-e0f7-e790-73f5cb3cde1f" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.IsLocked" project="QrCode.Web.Encoder" file="ce961233-8a32-9035-bc01-78a4f2e9ec50" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.LightBrush" project="QrCode.Web.Encoder" file="e85e6359-b07c-a1d9-441f-3a8ac73e694f" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.QuietZoneModule" project="QrCode.Web.Encoder" file="b52a189f-f362-6cb1-b8e0-146f922811e2" />
+      </topic>
+      <topic id="Events.T:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl" project="QrCode.Web.Encoder" file="6441c050-f7d6-c87d-7f72-745077a87bd1">
+        <topic id="E:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.DarkBrushChanged" project="QrCode.Web.Encoder" file="fc736ada-c288-c4e8-7d16-1b41bb93c788" />
+        <topic id="E:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.ErrorCorrectLevelChanged" project="QrCode.Web.Encoder" file="4757836f-0935-b3d9-cbf6-542c2113cc63" />
+        <topic id="E:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.LightBrushChanged" project="QrCode.Web.Encoder" file="1063c9b2-08f2-aae9-a71e-64af4b7d6feb" />
+        <topic id="E:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.QrMatrixChanged" project="QrCode.Web.Encoder" file="75d20084-bfab-1770-3648-8c308fef9efd" />
+        <topic id="E:QrCode.Web.Encoder.Windows.Forms.QrCodeGraphicControl.QuietZoneModuleChanged" project="QrCode.Web.Encoder" file="4ae5e47d-384a-151e-0b14-aec46a878682" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl" project="QrCode.Web.Encoder" file="91f4197b-664a-8255-046c-e6697fe58a62">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl" project="QrCode.Web.Encoder" file="b744ced4-0859-3375-e6f6-8dcc3a19127b" />
+      <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.#ctor" project="QrCode.Web.Encoder" file="2745e941-03da-3a7e-5627-35ab294726a0" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl" project="QrCode.Web.Encoder" file="70e94414-26c9-8f29-80fc-cd41c80f1274">
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.AccessibilityNotifyClients" project="QrCode.Web.Encoder" file="7e826152-aace-4c00-0a51-f57bc1d8ef5f" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.BeginInvoke" project="QrCode.Web.Encoder" file="d1f57450-e1fa-4def-9d11-0122192fc760" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.Dispose" project="QrCode.Web.Encoder" file="33bb8f5d-0563-2a73-9505-2f36451ad8cb" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.Freeze" project="QrCode.Web.Encoder" file="4559d506-ace2-98dd-a2d0-600402f42e80" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.GetChildAtPoint" project="QrCode.Web.Encoder" file="4959376b-a794-01ff-7ee7-ecf98d487ba0" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.GetQrMatrix" project="QrCode.Web.Encoder" file="d559eddc-d28f-03f5-f9c3-8bdc43b68806" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.Invalidate" project="QrCode.Web.Encoder" file="f5e327f5-136a-26f0-a8e2-4362961ac69c" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.Invoke" project="QrCode.Web.Encoder" file="e614a372-22e8-a01d-c932-1912abce1617" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.Load" project="QrCode.Web.Encoder" file="69a83e27-9c3e-27c8-e5be-e001f94a1e16" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.LoadAsync" project="QrCode.Web.Encoder" file="6954574b-9dfb-08c1-cc3c-63642daa5470" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.Lock" project="QrCode.Web.Encoder" file="b713c925-f544-556e-1ef9-5822fcf0d759" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.MemberwiseClone" project="QrCode.Web.Encoder" file="2f042c30-7fb2-bc59-3cd4-7c1c75b11270" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.OnDarkBrushChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="db06fdfe-999a-cbcc-be8f-4247ee5c8d09" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.OnErrorCorrectLevelChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="d25fbdf8-013b-22f2-35ad-f0d79fc808f5" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.OnLightBrushChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="4fed93a2-5587-e07e-1423-cc59b9a6bb44" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.OnQrMatrixChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="df7d3b21-a088-07dc-2976-ab7836574087" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.OnQuietZoneModuleChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="f8c58ff8-9870-9ed3-32f2-4832750eb021" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.OnTextChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="617b6998-f292-8785-186d-f41f4d1da846" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.PerformLayout" project="QrCode.Web.Encoder" file="2a6d3a56-3ca3-787e-fe29-41d7105327e6" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.ResumeLayout" project="QrCode.Web.Encoder" file="7638d94e-e202-69e6-38aa-540aab2d7294" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.RtlTranslateAlignment" project="QrCode.Web.Encoder" file="daccc9af-39cb-06c1-8819-19b1ed721bf1" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.Scale" project="QrCode.Web.Encoder" file="ee50f7c0-2a37-5dc9-dc97-194b131196ca" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.Select" project="QrCode.Web.Encoder" file="7f7963f0-a730-ae1d-5600-24dcb0ee78f1" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.SetBounds" project="QrCode.Web.Encoder" file="c7a9fccb-f7d1-f11e-a79f-41ee044cac4d" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.UnFreeze" project="QrCode.Web.Encoder" file="76fa89af-e955-3277-b8cd-6019ba6583d7" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.UnLock" project="QrCode.Web.Encoder" file="f17ed96d-2d56-4564-1e6e-6f613f24f7af" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.UpdateBounds" project="QrCode.Web.Encoder" file="1b08aa6e-ee82-e230-b197-94910cd56cd0" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl" project="QrCode.Web.Encoder" file="52e43146-75e2-62cb-1392-43efe31c0d01">
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.DarkBrush" project="QrCode.Web.Encoder" file="0b003730-ad59-cd20-910a-23f30c28f8f4" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.ErrorCorrectLevel" project="QrCode.Web.Encoder" file="4f8ee9f6-97ac-6251-66f4-af574f3b66a6" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.IsFreezed" project="QrCode.Web.Encoder" file="0659ebc5-6d35-a16e-a958-7df726956773" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.IsLocked" project="QrCode.Web.Encoder" file="6ff2ae2d-498e-16f0-36a3-9ff322828a4d" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.LightBrush" project="QrCode.Web.Encoder" file="95d3a182-d502-1b4e-f51b-76a6aeb6af44" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.QuietZoneModule" project="QrCode.Web.Encoder" file="2b4b6d17-85e3-2a22-1520-d4fd3e3a09a0" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.Text" project="QrCode.Web.Encoder" file="4f4c3830-a73d-4896-d471-d9e08e8bc24f" />
+      </topic>
+      <topic id="Events.T:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl" project="QrCode.Web.Encoder" file="c80a8ca3-a56c-7295-0fb7-2ad8383ba841">
+        <topic id="E:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.DarkBrushChanged" project="QrCode.Web.Encoder" file="6955faf0-c381-dcf2-adfe-6e676a176743" />
+        <topic id="E:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.ErrorCorrectLevelChanged" project="QrCode.Web.Encoder" file="f453394f-b484-1eee-4d21-cee814d4b23b" />
+        <topic id="E:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.LightBrushChanged" project="QrCode.Web.Encoder" file="3be70829-88f6-3dcb-f29f-dae22130317d" />
+        <topic id="E:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.QrMatrixChanged" project="QrCode.Web.Encoder" file="c1ed3d84-ef93-a0bb-9ca4-e98eeb6d31d5" />
+        <topic id="E:QrCode.Web.Encoder.Windows.Forms.QrCodeImgControl.QuietZoneModuleChanged" project="QrCode.Web.Encoder" file="8143caec-339e-871a-419f-7f8a4cb94794" />
+      </topic>
+    </topic>
+  </topic>
+  <topic id="N:QrCode.Web.Encoder.Windows.Render" project="_Namespaces" file="6bdd8f9e-a860-a2ce-7b8f-a776db01d13c">
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer" project="QrCode.Web.Encoder" file="0cf31ed2-1a86-1a73-5c8b-984453e6cee3">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer" project="QrCode.Web.Encoder" file="670b292f-3057-445a-15ad-a0deabb0c547" />
+      <topic id="Overload:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.#ctor" project="QrCode.Web.Encoder" file="2a57f44d-51fb-2407-b777-9b3598d7daf9">
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.#ctor(QrCode.Web.Encoder.Windows.Render.ISizeCalculation)" project="QrCode.Web.Encoder" file="ea1d5846-0314-f5e5-c939-7eb554ca10f2" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.#ctor(QrCode.Web.Encoder.Windows.Render.ISizeCalculation,System.Windows.Media.Brush,System.Windows.Media.Brush)" project="QrCode.Web.Encoder" file="7a86cf94-9bb3-a509-1d09-c23411d0d13a" />
+      </topic>
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer" project="QrCode.Web.Encoder" file="4a904d04-8d61-f3e0-8cbe-18f22326514d">
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.DrawBrush(QrCode.Web.Encoder.BitMatrix)" project="QrCode.Web.Encoder" file="e2ba5882-45db-bdae-641b-b452fb24e3db" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.DrawGeometry(QrCode.Web.Encoder.BitMatrix,System.Int32,System.Int32)" project="QrCode.Web.Encoder" file="6a61eb61-85ed-0a3d-ee14-97870f890679" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.WriteToBitmapSource(QrCode.Web.Encoder.BitMatrix,System.Windows.Point)" project="QrCode.Web.Encoder" file="a0ba9712-3f4c-32d4-c349-f408a776f4dd" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.WriteToStream" project="QrCode.Web.Encoder" file="2b6c8af2-e429-4277-d87a-96966aacdd0e">
+          <topic id="M:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.WriteToStream(QrCode.Web.Encoder.BitMatrix,QrCode.Web.Encoder.Windows.Render.ImageFormatEnum,System.IO.Stream)" project="QrCode.Web.Encoder" file="20737c28-ebec-7002-809f-d49da7163e55" />
+          <topic id="M:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.WriteToStream(QrCode.Web.Encoder.BitMatrix,QrCode.Web.Encoder.Windows.Render.ImageFormatEnum,System.IO.Stream,System.Windows.Point)" project="QrCode.Web.Encoder" file="57fc1eb9-e5e1-a781-95ab-3c501617db96" />
+        </topic>
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer" project="QrCode.Web.Encoder" file="cc9d53fd-8f5a-9652-04a6-0be5634a91ad">
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.DarkBrush" project="QrCode.Web.Encoder" file="e0370704-944c-ff7b-ab42-84ef94082d29" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.ISize" project="QrCode.Web.Encoder" file="1ce7d8e0-b988-33e0-ca09-607cb622d717" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.DrawingBrushRenderer.LightBrush" project="QrCode.Web.Encoder" file="8fb09428-b9f9-d205-3b1a-12b6bf509b79" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.DrawingSize" project="QrCode.Web.Encoder" file="9a278bd0-1527-aa8f-a78e-26e39f370162">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.DrawingSize" project="QrCode.Web.Encoder" file="6b05d6de-3649-c33b-87ad-6a3d9f04ce52" />
+      <topic id="M:QrCode.Web.Encoder.Windows.Render.DrawingSize.#ctor(System.Int32,System.Int32,QrCode.Web.Encoder.Windows.Render.QuietZoneModules)" project="QrCode.Web.Encoder" file="fc8d09ab-d19b-4ece-8021-e054b74b5edc" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.DrawingSize" project="QrCode.Web.Encoder" file="1e99597d-cc53-73f8-e007-ca917eae6ebd" />
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Render.DrawingSize" project="QrCode.Web.Encoder" file="a22736bc-c3cd-557d-11d6-31465f8f76d3">
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.DrawingSize.CodeWidth" project="QrCode.Web.Encoder" file="ca8402c1-1a28-3865-9548-536e5e87ca7f" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.DrawingSize.ModuleSize" project="QrCode.Web.Encoder" file="4616a693-ea75-5544-193b-9556b4baf284" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.DrawingSize.QuietZoneModules" project="QrCode.Web.Encoder" file="259747d5-6391-64aa-ac5e-38ba3b024f62" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.EncapsulatedPostScriptRenderer" project="QrCode.Web.Encoder" file="904cc30f-dcf4-3bf4-c6c1-7776fe12c7b0">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.EncapsulatedPostScriptRenderer" project="QrCode.Web.Encoder" file="9c5d82e7-04a3-68cd-e4a6-27bb948ff9fe" />
+      <topic id="M:QrCode.Web.Encoder.Windows.Render.EncapsulatedPostScriptRenderer.#ctor(QrCode.Web.Encoder.Windows.Render.ISizeCalculation,QrCode.Web.Encoder.Windows.Render.EPSColor,QrCode.Web.Encoder.Windows.Render.EPSColor)" project="QrCode.Web.Encoder" file="433e0e20-3bd2-1055-c556-b5898e6e0854" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.EncapsulatedPostScriptRenderer" project="QrCode.Web.Encoder" file="72a291c2-a90b-bd36-55f7-d1924237b05a">
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.EncapsulatedPostScriptRenderer.WriteToStream(QrCode.Web.Encoder.BitMatrix,System.IO.Stream)" project="QrCode.Web.Encoder" file="8081ce3b-428a-71d2-6277-65b8c11f204a" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Render.EncapsulatedPostScriptRenderer" project="QrCode.Web.Encoder" file="5bc3499d-942f-803b-057f-0cd802a28f20">
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EncapsulatedPostScriptRenderer.DarkColor" project="QrCode.Web.Encoder" file="44678788-8b44-d563-640d-bc7f6b6b37de" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EncapsulatedPostScriptRenderer.DrawingTechnique" project="QrCode.Web.Encoder" file="2a352cad-76b9-5970-a42f-fb2c066a66ab" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EncapsulatedPostScriptRenderer.LightColor" project="QrCode.Web.Encoder" file="ada7d24e-feaf-0ac7-c4a2-a01bb712b43d" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EncapsulatedPostScriptRenderer.SizeCalculator" project="QrCode.Web.Encoder" file="7b8a9513-150b-72ad-efb9-ffc3688aa104" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.EPSColor" project="QrCode.Web.Encoder" file="d9f76e70-51da-9893-a440-a7367dbaed81">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.EPSColor" project="QrCode.Web.Encoder" file="4c58c720-ee32-71a3-1d39-53a189abf4b7" />
+      <topic id="M:QrCode.Web.Encoder.Windows.Render.EPSColor.#ctor" project="QrCode.Web.Encoder" file="6cb0aacd-7b17-d9d5-4e36-7d9491cbb4b3" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.EPSColor" project="QrCode.Web.Encoder" file="3100ad1c-18d5-27f5-6275-cd5b1df04abd" />
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Render.EPSColor" project="QrCode.Web.Encoder" file="73568223-477e-2a10-4954-ef7f0f9058ee">
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSColor.A" project="QrCode.Web.Encoder" file="3b66d33b-01df-e07d-f0d4-7d8ab5703fd3" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSColor.B" project="QrCode.Web.Encoder" file="28b3d599-1026-1586-6e9a-6ab587c3755d" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSColor.G" project="QrCode.Web.Encoder" file="364d221f-9b17-8c8f-6281-68ae1ac05089" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSColor.R" project="QrCode.Web.Encoder" file="681e8230-1bf2-ec0f-3201-ae952a452c09" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.EPSFormColor" project="QrCode.Web.Encoder" file="5610c681-1d10-0ac4-d4b5-573996d01847">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.EPSFormColor" project="QrCode.Web.Encoder" file="c2f18f9c-a497-bd24-a6ff-7d192b8a45cb" />
+      <topic id="M:QrCode.Web.Encoder.Windows.Render.EPSFormColor.#ctor(System.Drawing.Color)" project="QrCode.Web.Encoder" file="cb2f522f-5186-d472-6c9c-479cab7da16c" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.EPSFormColor" project="QrCode.Web.Encoder" file="d654fcdc-95be-8dd2-757d-61f8c9e4b3bc" />
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Render.EPSFormColor" project="QrCode.Web.Encoder" file="b7aa65e4-d3a4-2430-da17-2e884f33449d">
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSFormColor.A" project="QrCode.Web.Encoder" file="f58b400b-29e9-0d32-a33d-b066bf4bf858" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSFormColor.B" project="QrCode.Web.Encoder" file="34b714c4-460e-ef85-9dc8-9428e72c6f79" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSFormColor.Color" project="QrCode.Web.Encoder" file="64f14da5-98b7-7917-02a5-003e74096c73" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSFormColor.G" project="QrCode.Web.Encoder" file="47bd3634-3c6b-fb94-409a-b4e369996a28" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSFormColor.R" project="QrCode.Web.Encoder" file="e9791ad2-8677-4f7d-2d4c-17aa344c9a2d" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.EPSMediaColor" project="QrCode.Web.Encoder" file="a22632b7-b512-1308-27d0-f98b3b746b73">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.EPSMediaColor" project="QrCode.Web.Encoder" file="a9ae6968-a711-9f61-1d24-8e0bf72e906c" />
+      <topic id="M:QrCode.Web.Encoder.Windows.Render.EPSMediaColor.#ctor(System.Windows.Media.Color)" project="QrCode.Web.Encoder" file="5b267a1f-7a78-13ca-c48e-aa9414b77885" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.EPSMediaColor" project="QrCode.Web.Encoder" file="959ceaf7-9502-3dc7-e1e2-dd8246e4319b" />
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Render.EPSMediaColor" project="QrCode.Web.Encoder" file="4e06b496-5efa-1cb5-53a3-5e705d67305e">
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSMediaColor.A" project="QrCode.Web.Encoder" file="9f57897c-500c-e36b-4866-3bd9fe71a398" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSMediaColor.B" project="QrCode.Web.Encoder" file="093f9d63-43ae-5a31-f237-c6a899cc383f" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSMediaColor.Color" project="QrCode.Web.Encoder" file="2e800450-ba15-2bf7-76cf-b37f5b3c8e85" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSMediaColor.G" project="QrCode.Web.Encoder" file="a895cddf-10d3-96f3-23ca-7542e1ec2a57" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.EPSMediaColor.R" project="QrCode.Web.Encoder" file="d51ef0eb-8437-1cd8-e45e-83768e42e05f" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.EpsModuleDrawingTechnique" project="QrCode.Web.Encoder" file="eb75a70f-b9ec-eeb4-188c-df0b63b6256a" />
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.FixedCodeSize" project="QrCode.Web.Encoder" file="c86f4de2-7e7c-f0f0-ff70-15e787132b34">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.FixedCodeSize" project="QrCode.Web.Encoder" file="4654d945-653c-6036-0d4b-874123385c3d" />
+      <topic id="M:QrCode.Web.Encoder.Windows.Render.FixedCodeSize.#ctor(System.Int32,QrCode.Web.Encoder.Windows.Render.QuietZoneModules)" project="QrCode.Web.Encoder" file="417357fd-d8ab-2566-1185-1eb664a00108" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.FixedCodeSize" project="QrCode.Web.Encoder" file="9a65a5f2-e4fc-3d2d-632c-6d6cc5597d9b">
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.FixedCodeSize.GetSize(System.Int32)" project="QrCode.Web.Encoder" file="61e6cc63-b4e3-b6c9-b1b7-8b3ba044069e" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Render.FixedCodeSize" project="QrCode.Web.Encoder" file="abf73b23-1e0a-37ec-4593-8315444f75ae">
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.FixedCodeSize.QrCodeWidth" project="QrCode.Web.Encoder" file="0d41ee63-7c1a-b016-fbb7-c3142dac0517" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.FixedCodeSize.QuietZoneModules" project="QrCode.Web.Encoder" file="a4f8d678-0531-47be-6bd6-30f6dc558462" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.FixedModuleSize" project="QrCode.Web.Encoder" file="e1273137-f41c-156b-c6b8-45f7ca0b20c9">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.FixedModuleSize" project="QrCode.Web.Encoder" file="610f16ce-fcc6-5072-52bc-44fb8f8d84f2" />
+      <topic id="M:QrCode.Web.Encoder.Windows.Render.FixedModuleSize.#ctor(System.Int32,QrCode.Web.Encoder.Windows.Render.QuietZoneModules)" project="QrCode.Web.Encoder" file="3cd19f6f-bb21-7094-66f7-7bbdeb9ea690" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.FixedModuleSize" project="QrCode.Web.Encoder" file="909b5154-8947-52cc-b6e1-d7cfae27ac70">
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.FixedModuleSize.GetSize(System.Int32)" project="QrCode.Web.Encoder" file="b61de1bf-0da1-c15d-356c-93419b9f7b00" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Render.FixedModuleSize" project="QrCode.Web.Encoder" file="89a01fbf-4275-f722-6dc6-a383be0853db">
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.FixedModuleSize.ModuleSize" project="QrCode.Web.Encoder" file="0b557342-d765-561b-6a4a-6f314681ec90" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.FixedModuleSize.QuietZoneModules" project="QrCode.Web.Encoder" file="1855dd5f-86f8-2ee4-420a-b679f93eaf17" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer" project="QrCode.Web.Encoder" file="5be0c941-5db3-51a3-4d8a-7cf83412ca42">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer" project="QrCode.Web.Encoder" file="0aa09632-bd4e-9487-ffaf-ef9f73ea0f18" />
+      <topic id="Overload:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.#ctor" project="QrCode.Web.Encoder" file="17ac09e1-4df2-15d2-5e88-7a1b5b983b84">
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.#ctor(QrCode.Web.Encoder.Windows.Render.ISizeCalculation)" project="QrCode.Web.Encoder" file="def4ac98-2065-61b3-709c-d147fb7ed3d5" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.#ctor(QrCode.Web.Encoder.Windows.Render.ISizeCalculation,System.Drawing.Brush,System.Drawing.Brush)" project="QrCode.Web.Encoder" file="bbf26943-1f58-1436-3fdb-fa63a5a6edc9" />
+      </topic>
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer" project="QrCode.Web.Encoder" file="f4763443-8105-7873-d5dc-e1fce48c059a">
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.Draw" project="QrCode.Web.Encoder" file="a552f349-e71b-72cb-ed31-7ff00cdc3865">
+          <topic id="M:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.Draw(System.Drawing.Graphics,QrCode.Web.Encoder.BitMatrix)" project="QrCode.Web.Encoder" file="007e1c2f-2f9a-b191-ef99-ccac2f0ca131" />
+          <topic id="M:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.Draw(System.Drawing.Graphics,QrCode.Web.Encoder.BitMatrix,System.Drawing.Point)" project="QrCode.Web.Encoder" file="4bd18593-c319-f4cc-f67e-facf6ff8ffa9" />
+        </topic>
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.WriteToStream" project="QrCode.Web.Encoder" file="ebd2146d-bf45-936f-eeb9-c14cd9bb3e8f">
+          <topic id="M:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.WriteToStream(QrCode.Web.Encoder.BitMatrix,System.Drawing.Imaging.ImageFormat,System.IO.Stream)" project="QrCode.Web.Encoder" file="3193fbe2-0fcd-2f4e-a525-5656eac32877" />
+          <topic id="M:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.WriteToStream(QrCode.Web.Encoder.BitMatrix,System.Drawing.Imaging.ImageFormat,System.IO.Stream,System.Drawing.Point)" project="QrCode.Web.Encoder" file="0e99a877-98a0-4723-6db4-09db8c2433d3" />
+        </topic>
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer" project="QrCode.Web.Encoder" file="a581f7bf-ffbe-f7bb-9416-a676b1013312">
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.DarkBrush" project="QrCode.Web.Encoder" file="345d0d0c-f4d3-2837-3e4f-0f3f3c2abba6" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.LightBrush" project="QrCode.Web.Encoder" file="d208d09d-438b-01b5-a221-886a403329c8" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.GraphicsRenderer.SizeCalculator" project="QrCode.Web.Encoder" file="abab021f-06d7-0c00-86db-7f6ab2441f49" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.ImageFormatEnum" project="QrCode.Web.Encoder" file="386d4775-1811-d2aa-15d9-327d5a8f1ae4" />
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.ImageFormatExtension" project="QrCode.Web.Encoder" file="3cf4c3d6-8b71-1fbf-f4df-4611f91bb23c">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.ImageFormatExtension" project="QrCode.Web.Encoder" file="68ef5d75-cd1b-99db-95fd-b69fdc4e3573" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.ImageFormatExtension" project="QrCode.Web.Encoder" file="4e31ef7f-1911-04a5-b1f6-ee80507db19f">
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.ImageFormatExtension.ChooseEncoder(QrCode.Web.Encoder.Windows.Render.ImageFormatEnum)" project="QrCode.Web.Encoder" file="fd995c24-2ae6-3318-7042-0109728c111b" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.ISizeCalculation" project="QrCode.Web.Encoder" file="0d6926dc-15eb-6b82-3dc8-d0da79f9d73c">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.ISizeCalculation" project="QrCode.Web.Encoder" file="57865b03-d21b-d424-27b8-2a2a0b2de853" />
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.ISizeCalculation" project="QrCode.Web.Encoder" file="e90eee96-160a-03bc-ab3a-711e29db4a6a">
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.ISizeCalculation.GetSize(System.Int32)" project="QrCode.Web.Encoder" file="2c668002-97a2-b4f2-6ac4-b47d0deb8d58" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.QuietZoneModules" project="QrCode.Web.Encoder" file="c1360198-61f7-f012-62fe-22eeb58f61ae" />
+    <topic id="T:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer" project="QrCode.Web.Encoder" file="54633421-462a-cb4e-4d31-ecc96cb266b5">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer" project="QrCode.Web.Encoder" file="35e43317-eace-b419-df89-2f5e4433c9c4" />
+      <topic id="Overload:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer.#ctor" project="QrCode.Web.Encoder" file="75f84c82-9464-16f0-f444-e96b676a7100">
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer.#ctor(QrCode.Web.Encoder.Windows.Render.ISizeCalculation)" project="QrCode.Web.Encoder" file="609a56c1-328d-5204-e1fa-0da74c31d13a" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer.#ctor(QrCode.Web.Encoder.Windows.Render.ISizeCalculation,System.Windows.Media.Color,System.Windows.Media.Color)" project="QrCode.Web.Encoder" file="6c632c54-35d6-68fc-1331-9e14dfe9c03a" />
+      </topic>
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer" project="QrCode.Web.Encoder" file="bac30a20-a668-eff1-b2f8-051840abac59">
+        <topic id="Overload:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer.Draw" project="QrCode.Web.Encoder" file="011ef7b0-3326-4cba-5dd9-46519ce3fff2">
+          <topic id="M:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer.Draw(System.Windows.Media.Imaging.WriteableBitmap,QrCode.Web.Encoder.BitMatrix)" project="QrCode.Web.Encoder" file="8108a0c7-ce68-9964-1ec2-3800786c1ad7" />
+          <topic id="M:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer.Draw(System.Windows.Media.Imaging.WriteableBitmap,QrCode.Web.Encoder.BitMatrix,System.Int32,System.Int32)" project="QrCode.Web.Encoder" file="1763d31a-82df-585a-c5b0-863560717994" />
+        </topic>
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer.DrawDarkModule(System.Windows.Media.Imaging.WriteableBitmap,QrCode.Web.Encoder.BitMatrix,System.Int32,System.Int32)" project="QrCode.Web.Encoder" file="d62a5853-19ba-421b-5cc4-a42dd1365559" />
+        <topic id="M:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer.WriteToStream(QrCode.Web.Encoder.BitMatrix,QrCode.Web.Encoder.Windows.Render.ImageFormatEnum,System.IO.Stream)" project="QrCode.Web.Encoder" file="d7003e95-8866-5b6e-d5ca-45868c940f03" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer" project="QrCode.Web.Encoder" file="6df73253-c127-2590-7fdd-b08e379726be">
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer.DarkColor" project="QrCode.Web.Encoder" file="a168dde6-815b-af8c-e9a8-07b8daef00ca" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer.ISize" project="QrCode.Web.Encoder" file="6e4201c7-ec5e-62da-c2f8-32a00d268393" />
+        <topic id="P:QrCode.Web.Encoder.Windows.Render.WriteableBitmapRenderer.LightColor" project="QrCode.Web.Encoder" file="72e361db-be2a-3d2d-af08-942cde658dd9" />
+      </topic>
+    </topic>
+  </topic>
+  <topic id="N:QrCode.Web.Encoder.Windows.WPF" project="_Namespaces" file="dba2dcce-7b5e-0db7-2b5b-9a488cc608f9">
+    <topic id="T:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl" project="QrCode.Web.Encoder" file="10f5fb9b-0289-77ef-be33-ce5e0640457d">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl" project="QrCode.Web.Encoder" file="a10bb366-9035-edad-eef8-e6527d9cbe70" />
+      <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.#ctor" project="QrCode.Web.Encoder" file="ac35a32d-3d5f-9b42-5cbe-ce95cd21a67b" />
+      <topic id="Fields.T:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl" project="QrCode.Web.Encoder" file="9c57aecb-7061-ded6-307f-f833b1525933">
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.DarkBrushProperty" project="QrCode.Web.Encoder" file="39d457d7-4f71-eecc-0426-88e2fd3e1ccb" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.ErrorCorrecLeveltProperty" project="QrCode.Web.Encoder" file="a8054a51-af5d-318f-dcf4-7acd680af8a7" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.LightBrushProperty" project="QrCode.Web.Encoder" file="d9fd9fda-1888-dcbe-d0ae-4e538fcd72c7" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.QrGeometryProperty" project="QrCode.Web.Encoder" file="fb748948-f729-f185-05d6-2555ac1df3a2" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.QuietZoneModuleProperty" project="QrCode.Web.Encoder" file="353e7eda-057a-d3d5-a512-be70e9e83067" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.TextProperty" project="QrCode.Web.Encoder" file="5e2b3743-3bf9-be7a-35e9-a9ea31c71596" />
+      </topic>
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl" project="QrCode.Web.Encoder" file="543a45f2-3055-ebf5-c700-da76708619b7">
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.AddHandler" project="QrCode.Web.Encoder" file="283222f2-c30f-191e-c6ae-71b42d5d3203" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.ApplyAnimationClock" project="QrCode.Web.Encoder" file="cced7dd1-7491-9ab1-2a3e-e52cc42e3390" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.ArrangeOverride(System.Windows.Size)" project="QrCode.Web.Encoder" file="aa3b8a1d-a762-8d03-6c54-8cec672e8aac" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.BeginAnimation" project="QrCode.Web.Encoder" file="9088e9f7-ea41-1ff2-e3aa-461d31ef099e" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.BeginStoryboard" project="QrCode.Web.Encoder" file="6462fc6b-efad-8379-b9e4-3d08d7b639b9" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.BringIntoView" project="QrCode.Web.Encoder" file="1d858a25-47c2-1c33-98ef-3b3339498986" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.ClearValue" project="QrCode.Web.Encoder" file="95e111bc-ca32-3d88-b666-f833b8e447e0" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.GetQrMatrix" project="QrCode.Web.Encoder" file="45d49fa2-57bc-128a-b9ba-4ebd6c70526a" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.HitTestCore" project="QrCode.Web.Encoder" file="ed6f4a9a-a615-a70b-6838-cf7cd9f8d9be" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.Lock" project="QrCode.Web.Encoder" file="19f59994-2a97-e8eb-f881-22623c0f34a3" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.OnQrMatrixChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="6c8fbf0c-b702-4de1-60ec-c46c8c94e9f9" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.SetBinding" project="QrCode.Web.Encoder" file="23d21142-67c0-338b-9e1d-629c8b77fec0" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.SetValue" project="QrCode.Web.Encoder" file="881b77a8-c507-5090-3318-daaf3f78db32" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.TransformToAncestor" project="QrCode.Web.Encoder" file="92155143-f9b6-dea8-6a40-67484e9ffce3" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.Unlock" project="QrCode.Web.Encoder" file="1d131438-0c58-c4df-14c1-d611b0de5989" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl" project="QrCode.Web.Encoder" file="48c66e28-dd30-03c1-70ad-fcf1b7e7b4a7">
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.DarkBrush" project="QrCode.Web.Encoder" file="5157ccae-8fe0-5ca7-a565-6ae370217c28" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.ErrorCorrectLevel" project="QrCode.Web.Encoder" file="f3a9034c-b33d-b435-ca14-1d9142684c8c" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.IsLocked" project="QrCode.Web.Encoder" file="191f136d-b61c-dde2-cf44-2d466bc95af4" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.LightBrush" project="QrCode.Web.Encoder" file="308d91b0-1cab-f837-fd96-1ee8dd59f0d4" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.QrGeometry" project="QrCode.Web.Encoder" file="3373cec2-aef0-549f-fb86-083a44809230" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.QuietZoneModule" project="QrCode.Web.Encoder" file="86a6a584-3c55-a837-8903-995b2759edb4" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.Text" project="QrCode.Web.Encoder" file="5fcba3ed-5b9b-50e0-dfa2-84f1a0812be0" />
+      </topic>
+      <topic id="Events.T:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl" project="QrCode.Web.Encoder" file="42e0eaaa-7900-002c-f6b1-e2e0feec1aef">
+        <topic id="E:QrCode.Web.Encoder.Windows.WPF.QrCodeGeoControl.QrMatrixChanged" project="QrCode.Web.Encoder" file="f0dc3529-cb5f-9289-ed29-920a447eb93f" />
+      </topic>
+    </topic>
+    <topic id="T:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl" project="QrCode.Web.Encoder" file="b37af397-1850-b9c1-f06a-d8783603641d">
+      <topic id="AllMembers.T:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl" project="QrCode.Web.Encoder" file="4161ef0a-9288-7243-1fce-cc40466b23a6" />
+      <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.#ctor" project="QrCode.Web.Encoder" file="de44081d-1467-afde-99a6-531eb18afc25" />
+      <topic id="Fields.T:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl" project="QrCode.Web.Encoder" file="2ef24575-6a53-88eb-0225-e3c7f7a1a316">
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.DarkColorProperty" project="QrCode.Web.Encoder" file="ad86b332-f3bb-e784-a9d5-c21225fc18b8" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.ErrorCorrectLevelProperty" project="QrCode.Web.Encoder" file="b05f6211-8cb6-6450-209d-b9357063f28b" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.IsGrayImageProperty" project="QrCode.Web.Encoder" file="cd78ac3a-a0c1-139f-c87a-c7825987e8cd" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.LightColorProperty" project="QrCode.Web.Encoder" file="5e236955-982a-ffe4-fb3f-ce1056176fc1" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.QrCodeWidthInchProperty" project="QrCode.Web.Encoder" file="971cc555-4e4f-8c6b-6013-3f803eef8193" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.QuietZoneModuleProperty" project="QrCode.Web.Encoder" file="eb4e4b2c-0478-487f-f080-bc367d3431fe" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.TextProperty" project="QrCode.Web.Encoder" file="d1b9a589-0f11-70a6-3f99-2476b82b8942" />
+        <topic id="F:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.WBitmapProperty" project="QrCode.Web.Encoder" file="6e70ed16-e294-42b8-210b-25437f474b36" />
+      </topic>
+      <topic id="Methods.T:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl" project="QrCode.Web.Encoder" file="587d9995-fdfa-a883-9bae-12ca1dc8b5dd">
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.AddHandler" project="QrCode.Web.Encoder" file="7a537fc6-b287-c2a6-0be1-a2160c0f4e69" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.ApplyAnimationClock" project="QrCode.Web.Encoder" file="0a8676a9-1fcd-7b40-508f-d8a30781314f" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.BeginAnimation" project="QrCode.Web.Encoder" file="1acb35c3-8320-616d-181c-cf4a52363c21" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.BeginStoryboard" project="QrCode.Web.Encoder" file="74d1afd6-4951-f6eb-0ef6-ae638ec29ddc" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.BringIntoView" project="QrCode.Web.Encoder" file="1fb63f52-8fff-380c-f7f2-ecd43fad783d" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.ClearValue" project="QrCode.Web.Encoder" file="f6f3df05-f979-da8f-2b89-c7ec42bef710" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.Freeze" project="QrCode.Web.Encoder" file="fda29aec-eba7-e18d-7ccd-27af3dd002be" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.GetDPI" project="QrCode.Web.Encoder" file="9ed27b10-43d8-7a67-ce95-ffaa44a27f07" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.GetQrMatrix" project="QrCode.Web.Encoder" file="672c8f52-880c-392b-3010-ec0e7692b792" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.HitTestCore" project="QrCode.Web.Encoder" file="a01b8972-f2a8-e9e5-38fc-201ccefd9f81" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.Lock" project="QrCode.Web.Encoder" file="545d0421-7dd6-3f95-a1f1-4bf9ab48204c" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.OnQrMatrixChanged(System.EventArgs)" project="QrCode.Web.Encoder" file="8724c012-f53a-f35e-4660-cdf9993d7ed8" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.SetBinding" project="QrCode.Web.Encoder" file="ef8fc86e-ec6b-9d9e-6f1a-3094380613e2" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.SetValue" project="QrCode.Web.Encoder" file="f383c061-8598-0284-49c4-72343e4d3073" />
+        <topic id="Overload:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.TransformToAncestor" project="QrCode.Web.Encoder" file="36031da4-4d4b-609b-99e3-c4fe47b233bb" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.UnFreeze" project="QrCode.Web.Encoder" file="c8cec95f-097a-0da7-ee23-67793451ff8e" />
+        <topic id="M:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.Unlock" project="QrCode.Web.Encoder" file="1bd937ed-90ce-4c60-5147-f73ab8f2d0cd" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl" project="QrCode.Web.Encoder" file="54fa9509-39de-d969-172e-2310f62b22ab">
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.DarkColor" project="QrCode.Web.Encoder" file="6c02e8ba-a7c8-7560-d1aa-fea9e3fefa9b" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.ErrorCorrectLevel" project="QrCode.Web.Encoder" file="559441d6-7eb4-acdf-4dd5-6e9139a4e127" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.IsFreezed" project="QrCode.Web.Encoder" file="2fe9f187-5549-778e-d676-a1e6c897b707" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.IsGrayImage" project="QrCode.Web.Encoder" file="63565aa5-08ac-b4fb-12b6-f6d2e05176fd" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.IsLocked" project="QrCode.Web.Encoder" file="52b2a9b3-c191-4fa8-8685-517759497c1f" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.LightColor" project="QrCode.Web.Encoder" file="83b0151e-3e0b-36af-e8d0-19703d8e3b62" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.QrCodeWidthInch" project="QrCode.Web.Encoder" file="123779c4-a335-fbab-0425-f8a98cdf8c45" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.QuietZoneModule" project="QrCode.Web.Encoder" file="0f646b25-325b-4948-bb22-b6464a8c806a" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.Text" project="QrCode.Web.Encoder" file="082c74d4-6567-e7d0-2353-9e1fbde5a615" />
+        <topic id="P:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.WBitmap" project="QrCode.Web.Encoder" file="d107d091-09d2-f9a9-95fb-93709e9a20b3" />
+      </topic>
+      <topic id="Events.T:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl" project="QrCode.Web.Encoder" file="485b20e4-86c9-233b-876e-fa5db8054369">
+        <topic id="E:QrCode.Web.Encoder.Windows.WPF.QrCodeImgControl.QrMatrixChanged" project="QrCode.Web.Encoder" file="750cb482-e4a0-6d51-463d-b2a85a5ddc05" />
+      </topic>
+    </topic>
+  </topic>
+  <topic id="N:QrCode.Web.UI" project="_Namespaces" file="fea033d5-e715-d13b-9213-ad6b65c1cff1">
+    <topic id="T:QrCode.Web.UI._Default" project="QrCode.Web.UI" file="f257aa26-031a-7749-d4c9-eea8f6d8defd">
+      <topic id="AllMembers.T:QrCode.Web.UI._Default" project="QrCode.Web.UI" file="f3df49b1-a707-679f-df17-ca2fa4f0e373" />
+      <topic id="M:QrCode.Web.UI._Default.#ctor" project="QrCode.Web.UI" file="e35656b5-fa28-b495-edc0-00f6132c96cc" />
+      <topic id="Fields.T:QrCode.Web.UI._Default" project="QrCode.Web.UI" file="903ada51-33d7-15ba-b267-7f16dd437eac">
+        <topic id="F:QrCode.Web.UI._Default.form1" project="QrCode.Web.UI" file="30496885-4701-aa01-e9ec-8d2ee0080cb1" />
+        <topic id="F:QrCode.Web.UI._Default.Image1" project="QrCode.Web.UI" file="765f1796-9328-9779-c626-7a49c73a330b" />
+      </topic>
+      <topic id="Methods.T:QrCode.Web.UI._Default" project="QrCode.Web.UI" file="d23b2ee3-fe6d-2a75-e5ce-97904f21e4cb">
+        <topic id="Overload:QrCode.Web.UI._Default.AddOnPreRenderCompleteAsync" project="QrCode.Web.UI" file="cba13cb4-539e-30de-4c47-88b6e5817e26" />
+        <topic id="Overload:QrCode.Web.UI._Default.DataBind" project="QrCode.Web.UI" file="02794b83-04ca-689d-ef6b-0f19ed1d914d" />
+        <topic id="Overload:QrCode.Web.UI._Default.Eval" project="QrCode.Web.UI" file="a63e9211-6ce0-276f-cef8-4f4539254205" />
+        <topic id="Overload:QrCode.Web.UI._Default.FindControl" project="QrCode.Web.UI" file="01a789ad-e38d-e56d-2386-3cf3e5b11082" />
+        <topic id="Overload:QrCode.Web.UI._Default.GetGlobalResourceObject" project="QrCode.Web.UI" file="9cd93da3-8652-c144-7219-0e9e7f88dbf4" />
+        <topic id="Overload:QrCode.Web.UI._Default.GetLocalResourceObject" project="QrCode.Web.UI" file="ab9ea58f-953f-ea21-2281-794d7c8e26f8" />
+        <topic id="Overload:QrCode.Web.UI._Default.GetPostBackEventReference" project="QrCode.Web.UI" file="b1ec71ba-c736-46e7-e9d7-1248833ad9fe" />
+        <topic id="Overload:QrCode.Web.UI._Default.GetRouteUrl" project="QrCode.Web.UI" file="8582b8f1-6697-b43c-7cb3-31efafc9614f" />
+        <topic id="Overload:QrCode.Web.UI._Default.InitOutputCache" project="QrCode.Web.UI" file="cb99315e-a60e-7f2b-a72f-e06f12ae4eac" />
+        <topic id="Overload:QrCode.Web.UI._Default.LoadControl" project="QrCode.Web.UI" file="8c04822d-a330-22e8-20bb-3bdcbbab71d2" />
+        <topic id="M:QrCode.Web.UI._Default.Page_Load(System.Object,System.EventArgs)" project="QrCode.Web.UI" file="a4533fa7-7070-6bcd-5f3f-362936f02d4d" />
+        <topic id="Overload:QrCode.Web.UI._Default.ParseControl" project="QrCode.Web.UI" file="0c0152a8-a9d1-70d3-5f75-55ac39c9540a" />
+        <topic id="Overload:QrCode.Web.UI._Default.RenderControl" project="QrCode.Web.UI" file="7d682642-d6f3-e1cd-41ce-a840ea80c194" />
+        <topic id="Overload:QrCode.Web.UI._Default.SetFocus" project="QrCode.Web.UI" file="58bdb26e-d4c9-bc0d-ec09-b9bd2edd8fcc" />
+        <topic id="Overload:QrCode.Web.UI._Default.Validate" project="QrCode.Web.UI" file="725061de-4248-71a4-ac34-0a4e6490a3c1" />
+        <topic id="Overload:QrCode.Web.UI._Default.XPath" project="QrCode.Web.UI" file="d104135d-12e3-bade-cefb-ffe24831dbad" />
+        <topic id="Overload:QrCode.Web.UI._Default.XPathSelect" project="QrCode.Web.UI" file="06ddc46b-a482-3f30-0210-cd3ed2118a0e" />
+      </topic>
+      <topic id="Properties.T:QrCode.Web.UI._Default" project="QrCode.Web.UI" file="f61da580-6a5b-0eaf-9f5e-c61dd062c5b0" />
+      <topic id="Events.T:QrCode.Web.UI._Default" project="QrCode.Web.UI" file="8e45d416-de0b-c3a3-f811-530769e2e48b" />
+    </topic>
+  </topic>
+  <topic id="N:XamlGeneratedNamespace" project="_Namespaces" file="d56f9899-ea68-441a-14bf-b7e43a3035c7">
+    <topic id="T:XamlGeneratedNamespace.GeneratedInternalTypeHelper" project="QrCode.Web.Encoder" file="55cad188-76ae-4170-e16c-99dd7b48db5f">
+      <topic id="AllMembers.T:XamlGeneratedNamespace.GeneratedInternalTypeHelper" project="QrCode.Web.Encoder" file="0b4922ec-ad3f-0f6e-be72-3e4b4f63c133" />
+      <topic id="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.#ctor" project="QrCode.Web.Encoder" file="8b8b175e-3043-79cf-8ba0-588df41d0b04" />
+      <topic id="Methods.T:XamlGeneratedNamespace.GeneratedInternalTypeHelper" project="QrCode.Web.Encoder" file="a04b6924-91d1-864e-2274-8ccd6e864414">
+        <topic id="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.AddEventHandler(System.Reflection.EventInfo,System.Object,System.Delegate)" project="QrCode.Web.Encoder" file="51f3a73d-e9c9-e17c-5d23-7e2a5dcd1260" />
+        <topic id="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateDelegate(System.Type,System.Object,System.String)" project="QrCode.Web.Encoder" file="b49e6357-9a97-57a4-2c45-c27b1d6a98c0" />
+        <topic id="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateInstance(System.Type,System.Globalization.CultureInfo)" project="QrCode.Web.Encoder" file="5b385031-8721-8d17-795c-1236f8ec30f2" />
+        <topic id="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.GetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Globalization.CultureInfo)" project="QrCode.Web.Encoder" file="b1c35457-8ff7-6b8e-c7e4-5f3ef4b4773e" />
+        <topic id="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Object,System.Globalization.CultureInfo)" project="QrCode.Web.Encoder" file="1d06c121-4fd6-7908-868c-910f9eb2e46e" />
+      </topic>
+    </topic>
+  </topic>
+</topics>

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCode.Web.UI", "QrCode.Web.UI\QrCode.Web.UI.csproj", "{790B90BB-A18A-4F7F-8B22-D586238D675E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCode.Web.Encoder", "..\Gma.QrCodeNet.Encoder\QrCode.Web.Encoder.csproj", "{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{790B90BB-A18A-4F7F-8B22-D586238D675E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790B90BB-A18A-4F7F-8B22-D586238D675E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790B90BB-A18A-4F7F-8B22-D586238D675E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{790B90BB-A18A-4F7F-8B22-D586238D675E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{790B90BB-A18A-4F7F-8B22-D586238D675E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{790B90BB-A18A-4F7F-8B22-D586238D675E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790B90BB-A18A-4F7F-8B22-D586238D675E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790B90BB-A18A-4F7F-8B22-D586238D675E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{790B90BB-A18A-4F7F-8B22-D586238D675E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{790B90BB-A18A-4F7F-8B22-D586238D675E}.Release|x86.ActiveCfg = Release|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{AA3FD0C4-5577-4327-8486-AA4F5903DB9B}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

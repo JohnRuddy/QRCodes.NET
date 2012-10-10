@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Versions/f:ErrorCorrectionBlocks.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Versions/f:InputOutOfBoundaryException.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Versions/f:QRCodeVersion.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Versions/f:VersionControl.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Versions/f:VersionControlStruct.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Versions/f:VersionTable.cs" caret="243" fromTop="11" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Forms/f:QrCodeGraphicControl.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Forms/f:QrCodeImgControl.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:DrawingBrushRenderer.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:DrawingSize.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:EncapsulatedPostScriptRenderer.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:EPSColor.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:EPSFormColor.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:EPSMediaColor.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:FixedCodeSize.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:FixedModuleSize.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:GeometryExtensions.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:GraphicsRenderer.cs" caret="244" fromTop="12" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:ImageFormatEnum.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:ImageFormatExtension.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:ISizeCalculation.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:QuietZoneModules.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:WriteableBitmapExtension.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:WriteableBitmapRenderer.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:WPF/f:QrCodeGeoControl.cs" caret="409" fromTop="18" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:WPF/f:QrCodeImgControl.cs" caret="487" fromTop="19" />
+    <File id="790B90BB-A18A-4F7F-8B22-D586238D675E/f:my.js" caret="0" fromTop="0" />
+    <File id="790B90BB-A18A-4F7F-8B22-D586238D675E/f:Default.aspx" caret="138" fromTop="3" />
+    <File id="790B90BB-A18A-4F7F-8B22-D586238D675E/f:app.html" caret="1650" fromTop="24" />
+    <File id="790B90BB-A18A-4F7F-8B22-D586238D675E/f:Default.aspx.cs" caret="521" fromTop="22" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:DrawingSize.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:EncapsulatedPostScriptRenderer.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:EPSColor.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:EPSFormColor.cs" caret="151" fromTop="5" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:EPSFormColor.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:EPSMediaColor.cs" caret="157" fromTop="5" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:EPSMediaColor.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:FixedCodeSize.cs" caret="143" fromTop="5" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:FixedCodeSize.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:FixedModuleSize.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:GeometryExtensions.cs" caret="180" fromTop="6" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:GeometryExtensions.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:GraphicsRenderer.cs" caret="244" fromTop="9" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:ImageFormatEnum.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:ImageFormatExtension.cs" caret="180" fromTop="6" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:ImageFormatExtension.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:ISizeCalculation.cs" caret="165" fromTop="5" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:ISizeCalculation.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:QuietZoneModules.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:WriteableBitmapExtension.cs" caret="271" fromTop="9" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:WriteableBitmapExtension.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:WriteableBitmapRenderer.cs" caret="250" fromTop="9" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:Render/f:WriteableBitmapRenderer.cs" caret="0" fromTop="0" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:WPF/f:QrCodeGeoControl.cs" caret="409" fromTop="18" />
+    <File id="AA3FD0C4-5577-4327-8486-AA4F5903DB9B/d:Windows/d:WPF/f:QrCodeImgControl.cs" caret="0" fromTop="0" />
+    <File id="790B90BB-A18A-4F7F-8B22-D586238D675E/f:app.html" caret="753" fromTop="16" />
+    <File id="790B90BB-A18A-4F7F-8B22-D586238D675E/f:app.html" caret="28" fromTop="1" />
+    <File id="790B90BB-A18A-4F7F-8B22-D586238D675E/f:app.html" caret="1442" fromTop="27" />
+    <File id="790B90BB-A18A-4F7F-8B22-D586238D675E/f:app.html" caret="1498" fromTop="27" />
+    <File id="790B90BB-A18A-4F7F-8B22-D586238D675E/f:app.html" caret="1021" fromTop="19" />
+  </RecentEdits>
+</RecentFiles>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html ng-app>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>
+        </title>
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/jquery.mobile/1.1.1/jquery.mobile-1.1.1.min.css" />
+        <link rel="stylesheet" href="my.css" />
+        <style>
+            /* App custom styles */
+        </style>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.mobile/1.1.1/jquery.mobile-1.1.1.min.js">
+        </script>
+            <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.2/angular.min.js"></script>
+        <script src="my.js">
+        </script>
+    </head>
+    <body>
+        <!-- Home -->
+        <div data-role="page" id="page1">
+            <div data-role="content">
+                <div data-role="fieldcontain">
+                    <h1>Generate a QR Code</h1>
+                    <fieldset data-role="controlgroup">
+                        <label for="textinput1">
+                            Enter some text
+                        </label>
+                        <input name="" id="textinput1" placeholder="" value="" type="text" ng-model="yourName"  />
+                    </fieldset>
+                </div>
+                <div style="position:relative;">
+                    <img src="qr.code?{{yourName}}" alt="image" width="100%" />
+                </div>
+            </div>
+        </div>
+        <script>
+            //App custom javascript
+        </script>
+    </body>
+</html>

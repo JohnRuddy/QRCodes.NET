@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>_ProjNS_</name>
+  </assembly>
+  <members>
+    <member name="N:QrCode.Web.Encoder">
+      <summary />
+    </member>
+    <member name="N:QrCode.Web.Encoder.common">
+      <summary />
+    </member>
+    <member name="N:QrCode.Web.Encoder.DataEncodation">
+      <summary />
+    </member>
+    <member name="N:QrCode.Web.Encoder.DataEncodation.InputRecognition">
+      <summary />
+    </member>
+    <member name="N:QrCode.Web.Encoder.Masking">
+      <summary />
+    </member>
+    <member name="N:QrCode.Web.Encoder.Masking.Scoring">
+      <summary />
+    </member>
+    <member name="N:QrCode.Web.Encoder.Versions">
+      <summary />
+    </member>
+    <member name="N:QrCode.Web.Encoder.Windows.Forms">
+      <summary />
+    </member>
+    <member name="N:QrCode.Web.Encoder.Windows.Render">
+      <summary />
+    </member>
+    <member name="N:QrCode.Web.Encoder.Windows.WPF">
+      <summary />
+    </member>
+    <member name="N:QrCode.Web.UI">
+      <summary />
+    </member>
+    <member name="N:XamlGeneratedNamespace">
+      <summary />
+    </member>
+  </members>
+</doc>

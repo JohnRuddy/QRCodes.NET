@@ -1,0 +1,36 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Projects\Github\QrCode\QrCode.Web.UI\Qrcode.Web.Help\Help\Working\Output\HtmlHelp1\Documentation.chm
+
+HHC3004: Warning: adm.gif : The HTML tag "#@0¨Ã;" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: adm_dev.gif : The HTML tag "\°`¡ÈB§èùÒJCŒü¸DˆBœ:2TPò)R˜ô`!B!”‡" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: adm_dev.gif : The HTML tag "¸bGE4 t°Ñ€M	$„Ğ4“@d×PæÃ@;" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: adm_dev_arch.gif : The HTML tag "±Ä'aÁŠ@½uá 8‡ÑAzU¡#UĞğ£UBñçÁ IŒ]PE<<..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: alert_caution.gif : The HTML tag "$6'J=C,	AJ.#087I?" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: alert_security.gif : The HTML tag "í›à“ál¥¸™l¢AÒ(X2L‚°„;" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3002: Warning: big_adm.gif : The HTML tag "m" is missing a closing angle bracket.
+HHC3004: Warning: big_arch.gif : The HTML tag "É ŠÇX²@ud	€Mˆ,eZœ	¯£H4Oö™Ğ`E&G”&EŠäÈ%4ö‘ˆ	p,J..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: big_dev.gif : The HTML tag "êòÅ""è àZ	rê9¯—IamĞéP­£†ÜøAîÇ{«G]áí„÷‰½ßÌ©oğÅ÷..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: big_kw.gif : The HTML tag "Á_ÄGy¦H ^)è^xÿ•u\`B2ˆZOLmªRŞ_"!…_éÕØU$Ö..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: Caution.gif : The HTML tag "$6'J=C,	AJ.#087I?" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3002: Warning: CFW.gif : The HTML tag "T" is missing a closing angle bracket.
+HHC3004: Warning: collapse_all.gif : The HTML tag "Õ××" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3002: Warning: copycode.gif : The HTML tag "c" is missing a closing angle bracket.
+HHC3004: Warning: copycodeHighlight.gif : The HTML tag "‡”K+˜…Sb&WTP^4B‚“'U”b$cNb[7¶105O*..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3002: Warning: dev.gif : The HTML tag "t8" is missing a closing angle bracket.
+HHC3004: Warning: dev_arch.gif : The HTML tag "ğCHàØ„VU˜[0ğÀ‰4Ğ@…hF1Ö˜p4P4hN4…kÉ…H..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3002: Warning: dropdown.gif : The HTML tag "y" is missing a closing angle bracket.
+HHC3004: Warning: dropdownHover.gif : The HTML tag "ºEP$iP£™A£]Àa)ÍB$;" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: drpdown.gif : The HTML tag "£È1µ ÒÁ•zÁRD¤l¾RTÀïºëö/?ÇçÑ~V	„…†…	!;" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: drpdown_orange.gif : The HTML tag "ÿÓ¤ÿË–ÿÈÿùéÿÅ‹ÿåÄÿéÌÿ×«ÿíÓÿÏÿà¼ÿğÚÿ÷åÿÜ´ÿöåÿôàÿì..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: drpdown_orange_up.gif : The HTML tag "ÿÓ¤ÿË–ÿùéÿÅ‹ÿÈÿåÄÿéÌÿà¼ÿğÚÿÏÿ×«ÿíÓÿ÷åÿöåÿÜ´ÿÏœÿô..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: drpup.gif : The HTML tag "===" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: expand_all.gif : The HTML tag "«¬­ÁÁÁÈÈÉ°±²ÍÍÍ¹º»çèèûûû½¾¾‘‘" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: greencheck.gif : The HTML tag "‚a8RaÉ,tJD;" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: greychck.gif : The HTML tag "‚a(RaÉ,›tJD;" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: header_prev_next.jpg : The HTML tag "?xpacket begin='ï»¿' id='W5M0MpCehiHzreSzNTczkc9d'..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: header_prev_next.jpg : The HTML tag "?adobe-xap-filters esc="CR"?" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: header_prev_next.jpg : The HTML tag "?xpacket end='w'?" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: header_prev_next.jpg : The HTML tag "•Š.NÁRÅ)b‹”Ç¯Õ°.ZÁõñÅËã—Ç1}ŒqsçÙÆªæq³}œcìã..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: header_prev_next.jpg : The HTML tag "ˆŸ¼Şï÷ûÄıâ~ğ?x¼~±Øì@ö {0L“Ùí@ö­‹*Ø²í‹..." is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: header_prev_next.jpg : The HTML tag "›ty1øôkúÄwPîÄw";ˆóCš<$y#ÉHòG’<‘ä†Ï$y#ÈòEO$9#É..." is not a valid HTML tag (it does not begin with an alphanumeric character).
